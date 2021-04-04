@@ -72,5 +72,5 @@ function reset() {
   document.getElementById("city").value = "" ;
   document.getElementById("state").value = "";
   document.getElementById("country").value = "";
-   document.getElementById("shape").value = "";
+  document.getElementById("shape").value = "";
 }

@@ -5,6 +5,8 @@ Write code that will create a table dynamically and allow users to filter the ta
 Use JavaScript, HTML, and CSS, and D3.js on our web pages.
 
 * Create a index.html, style.css, and JavaScript using D3.js.
+![image](https://user-images.githubusercontent.com/74002089/114227937-ab41b200-9943-11eb-9f00-45559ef5f549.png)
+
 
 * JavaScript code to appends a table to your web page and then adds new rows of data for each UFO sighting.
 
@@ -17,5 +19,6 @@ Use JavaScript, HTML, and CSS, and D3.js on our web pages.
   3. `state`
   4. `country`
   5. `shape`
+![image](https://user-images.githubusercontent.com/74002089/114227980-beed1880-9943-11eb-81f3-1f9e74ee99b9.png)
 
 - - -
